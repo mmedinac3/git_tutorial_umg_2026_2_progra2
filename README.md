@@ -2,9 +2,9 @@
 
 Este repositorio se utilizará para aprender:
 
-- Clonar un repositorio
-- Modificar archivos
-- Preparar cambios
+- Mario medina  
+- progra 2
+- C++ en dev
 - Inicializar repositorio
 
 
